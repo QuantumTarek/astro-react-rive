@@ -1,0 +1,1 @@
+template setup for astro + react + rive ([simple skinning](https://codesandbox.io/s/rive-skins-7tmtxm)) 
